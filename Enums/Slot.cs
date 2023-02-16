@@ -1,0 +1,10 @@
+﻿namespace RPGHeroes.Enums
+{
+    public enum Slot
+    {
+        Weapon,
+        Head,
+        Body,
+        Legs
+    }
+}

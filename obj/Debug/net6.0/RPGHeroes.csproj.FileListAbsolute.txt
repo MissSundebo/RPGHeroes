@@ -1,0 +1,15 @@
+C:\Users\futha\source\repos\RPGHeroes\obj\Debug\net6.0\RPGHeroes.csproj.AssemblyReference.cache
+C:\Users\futha\source\repos\RPGHeroes\obj\Debug\net6.0\RPGHeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futha\source\repos\RPGHeroes\obj\Debug\net6.0\RPGHeroes.AssemblyInfoInputs.cache
+C:\Users\futha\source\repos\RPGHeroes\obj\Debug\net6.0\RPGHeroes.AssemblyInfo.cs
+C:\Users\futha\source\repos\RPGHeroes\obj\Debug\net6.0\RPGHeroes.csproj.CoreCompileInputs.cache
+C:\Users\futha\source\repos\RPGHeroes\bin\Debug\net6.0\RPGHeroes.exe
+C:\Users\futha\source\repos\RPGHeroes\bin\Debug\net6.0\RPGHeroes.deps.json
+C:\Users\futha\source\repos\RPGHeroes\bin\Debug\net6.0\RPGHeroes.runtimeconfig.json
+C:\Users\futha\source\repos\RPGHeroes\bin\Debug\net6.0\RPGHeroes.dll
+C:\Users\futha\source\repos\RPGHeroes\bin\Debug\net6.0\RPGHeroes.pdb
+C:\Users\futha\source\repos\RPGHeroes\obj\Debug\net6.0\RPGHeroes.dll
+C:\Users\futha\source\repos\RPGHeroes\obj\Debug\net6.0\refint\RPGHeroes.dll
+C:\Users\futha\source\repos\RPGHeroes\obj\Debug\net6.0\RPGHeroes.pdb
+C:\Users\futha\source\repos\RPGHeroes\obj\Debug\net6.0\RPGHeroes.genruntimeconfig.cache
+C:\Users\futha\source\repos\RPGHeroes\obj\Debug\net6.0\ref\RPGHeroes.dll
