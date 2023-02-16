@@ -1,6 +1,6 @@
 ﻿namespace RPGHeroes.Heroes
 {
-    internal class Mage : Hero
+    public class Mage : Hero
     {
         public override int DamagingAttribute => TotalAttributes().Intelligence;
 

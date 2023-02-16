@@ -1,6 +1,6 @@
 ﻿namespace RPGHeroes.Heroes
 {
-    internal class Ranger : Hero
+    public class Ranger : Hero
     {
         public override int DamagingAttribute => TotalAttributes().Dexterity;
 

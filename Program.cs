@@ -1,5 +1,6 @@
 ﻿using RPGHeroes.Enums;
 using RPGHeroes.Equipment;
+using RPGHeroes.Heroes;
 
 namespace RPGHeroes
 {
