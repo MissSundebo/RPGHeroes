@@ -38,6 +38,7 @@ namespace RPGHeroes.Heroes
             Level++;
         }
 
+        //Looping through equip
         public void Equip(Weapon weapon)
         {
             if (weapon.RequiredLevel > Level)
@@ -68,6 +69,7 @@ namespace RPGHeroes.Heroes
             Equipment[armor.Slot] = armor;
         }
 
+        //loop through Damage
         public double Damage()
         {
             int weaponDamage = 1;
